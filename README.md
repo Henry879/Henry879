@@ -59,12 +59,12 @@ I am currently seeking entry-level opportunities in **Technical Support, Service
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henry879&show_icons=true&theme=radical&hide_border=true" alt="Henry's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry879&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henry879&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Henry879&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henry879&theme=github_dark" alt="Repos per Language" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henry879&theme=github_dark" alt="Most Commit Language" width="400" />
 </p>
 
 ---
