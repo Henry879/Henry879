@@ -8,7 +8,14 @@
 
 ### 🎯 Information Systems Development Technologist | Backend Developer | Future Technical Support Specialist
 
-
+```text```
+┌────────────────────────────────────────────────────────┐
+│  🚀 Currently: Student at UTS                          │
+│  📍 Location: Colombia                                 │
+│  🌐 Languages: Spanish (Native), English (B2)          │
+│  💼 Looking for: Technical Support / Service Desk      │
+│  ✅ Available for: Full-time opportunities             │
+└────────────────────────────────────────────────────────┘
 ---
 
 ## 🎯 About Me
@@ -192,12 +199,5 @@ I'm actively seeking **entry-level opportunities** in:
   <sub>Built with ❤️ by Henry Carreño | Available for opportunities</sub>
 </div>
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│  🚀 Currently: Student at UTS                           │
-│  📍 Location: Colombia                                  │
-│  🌐 Languages: Spanish (Native), English (B2)           │
-│  💼 Looking for: Technical Support / Service Desk       │
-│  ✅ Available for: Full-time opportunities               │
-└─────────────────────────────────────────────────────────┘
+
 
