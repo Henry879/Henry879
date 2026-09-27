@@ -90,6 +90,19 @@ I'm a passionate **Information Systems Development Technology student** at UTS w
 
 ---
 
+## 📊 Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry879&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Henry879&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ### 🛒 DomiLocal — REST API
 *Collaborative Group Project · FastAPI · PostgreSQL · Scrum*
 
