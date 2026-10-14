@@ -19,13 +19,13 @@
 
 ### 💻 Featured Engineering Projects
 
-#### 🤖 [HALLEY COL — CRM & Automated Integration Engine](https://github.com/Henry879)
+#### 🤖 [HALLEY COL — CRM & Automated Integration Engine](https://github.com/Henry879/HalleyCol)
 **Full-Stack Project | Python · Backend Logic · API Integration · PostgreSQL**
 * Engineered a full-stack system integrating a WhatsApp automation agent with an operational CRM web dashboard.
 * Built real-time backend workflows for order handling, automated status updates, and transaction logging.
 * Structured data persistence layer ensuring consistency across automated client interactions and administrative panels.
 
-#### 🛒 [DomiLocal — Food Delivery REST API](https://github.com/Henry879)
+#### 🛒 [DomiLocal — Food Delivery REST API](https://github.com/DomiLocal/Domilocal)
 **Collaborative Project | Python · FastAPI · PostgreSQL · Git Workflow · Scrum**
 * Co-architected a RESTful API following full SDLC methodologies, focusing on request validation and payload handling.
 * Integrated PostgreSQL for relational data persistence managing users, products, and order state machines.
